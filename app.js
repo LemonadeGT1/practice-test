@@ -17,10 +17,7 @@ const cases = [
 ]
 
 // YOUR JS CODE
-let holmesCase = {
-  title: '',
-  year: 0
-}
+let holmesCase = {}
 
 let currentYear = 2023
 let jsReleaseYear = 1995
