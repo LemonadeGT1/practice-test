@@ -18,7 +18,7 @@ const cases = [
 
 // YOUR JS CODE
 let holmesCase = {
-  title: "",
+  title: '',
   year: 0
 }
 
